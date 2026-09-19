@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nathan 👋
 
-<!--
-**nathanjlim/nathanjlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Boston College minoring in Mathematics and Finance, graduating in the spring of 2028.
 
-Here are some ideas to get you started:
+Currently, I am working as a Research Software Engineer for the Labor-Time Economy Working Group (LTEWG). Within this position, I am primarily working on our C++ macroeconomic simulation repository, featuring a deterministic agent-based model to visualize macroeconomic homeostasis and FIC taxation models. Outside of my research, I have a few quantitative and full-stack projects, most notably a Python Live Blended Poisson Engine for market analytics. You can explore these on my profile. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C, C++, TypeScript, Go, SQL, Java
+- **Tools:** AWS, Next.js, Git, Vercel, Supabase
+
+**Feel free to reach out about any of my projects!**
+
+Email: lim.nathanj@gmail.com
